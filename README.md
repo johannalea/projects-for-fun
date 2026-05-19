@@ -1,3 +1,3 @@
 # My *just-for-fun* Projects !
-<br>
-Projects I do for fun! Related to my hobbies or random stats/data I'm curious about!
+Projects I do for fun! <br>
+Related to my hobbies or just random data I'm curious about!
